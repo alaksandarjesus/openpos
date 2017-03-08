@@ -1,0 +1,21 @@
+{
+  "name": "openpos",
+  "description": "laravel based openpos",
+  "main": "",
+  "authors": [
+    "alaksandarjesus <alaksandarjesus@yahoo.co.in>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alaksandarjesus/openpos",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "4.0.0-alpha"
+  }
+}
